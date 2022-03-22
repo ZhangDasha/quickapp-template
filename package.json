@@ -1,6 +1,6 @@
 {
-  "name": "<%=packName%>",
-  "version": "1.0.0",
+  "name": "quickapp-template",
+  "version": "<%=version%>",
   "private": "<%=private%>",
   "engines": {
     "node": ">=8.10"

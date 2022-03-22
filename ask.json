@@ -1,5 +1,10 @@
 [
 	{
+		"type": "confirm",
+		"name": "sign",
+		"message": "是否创建证书"
+	},
+	{
 		"type": "input",
 		"name": "packName",
 		"message": "this packName?"
