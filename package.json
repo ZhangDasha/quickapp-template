@@ -1,7 +1,7 @@
 {
-  "name": "quickTest",
+  "name": "<%=packName%>",
   "version": "1.0.0",
-  "description": "",
+  "private": "<%=private%>",
   "engines": {
     "node": ">=8.10"
   },
@@ -18,5 +18,8 @@
     "eslint": "^6.8.0",
     "eslint-plugin-ux": "^0.0.4",
     "hap-toolkit": "^1.9.7"
-  }
+  },
+  "autor":"<%=author%>",
+  "description": "<%=description%>",
+  "license": "<%=license%>"
 }
